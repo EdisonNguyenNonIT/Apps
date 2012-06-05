@@ -1,4 +1,0 @@
-Apps
-====
-
-Apps for demo
